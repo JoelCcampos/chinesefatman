@@ -1,0 +1,9 @@
+body{
+    background-image: url('oi.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+ol{
+    color: rgba(0, 0, 0, 0.974);
+}
